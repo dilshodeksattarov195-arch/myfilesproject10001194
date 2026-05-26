@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsave",
+        "uuid": 4108554,
+        "checksum": "g2b5h"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
